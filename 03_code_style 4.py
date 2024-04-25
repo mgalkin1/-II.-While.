@@ -81,6 +81,6 @@ z = 9
 if z > 0:
     print('не победа')
 
-ss = ['cat', 'wolf', 'ostrich']
-if 'lion' in ss:
+pets = ['cat', 'wolf', 'ostrich']
+if 'lion' in pets:
     print('Wow!')
